@@ -18,5 +18,7 @@ https://leetcode.com/problems/custom-sort-string/
 
 https://leetcode.com/problems/alien-dictionary/
 
+https://leetcode.com/problems/count-sorted-vowel-strings/
+
 # Reference
 https://en.wikipedia.org/wiki/Lexicographic_order
